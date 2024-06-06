@@ -1,1 +1,1 @@
-# Diabetes Prediction
+# K-Nearest Neighbor
