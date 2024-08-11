@@ -7,10 +7,6 @@ This project demonstrates the implementation of an image classification model us
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model](#model)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
